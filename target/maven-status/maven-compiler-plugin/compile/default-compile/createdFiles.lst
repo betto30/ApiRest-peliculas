@@ -1,0 +1,7 @@
+mx\unam\aragon\ico\is\peliculasapi\services\PeliculaServiceimpl.class
+mx\unam\aragon\ico\is\peliculasapi\services\interfaces\PeliculaService.class
+mx\unam\aragon\ico\is\peliculasapi\repositories\PeliculaRepository.class
+mx\unam\aragon\ico\is\peliculasapi\entities\Pelicula.class
+mx\unam\aragon\ico\is\peliculasapi\exceptions\ManejadorGlobalExcepciones.class
+mx\unam\aragon\ico\is\peliculasapi\controllers\PeliculaRestController.class
+mx\unam\aragon\ico\is\peliculasapi\PeliculasapiApplication.class
